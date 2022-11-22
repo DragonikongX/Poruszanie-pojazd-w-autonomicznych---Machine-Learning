@@ -1,0 +1,4 @@
+sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+*/mono-2.0-bdwgc.dll filter=lfs diff=lfs merge=lfs -text
+Pojazdy[[:space:]]autonomiczne[[:space:]]-[[:space:]]Machine[[:space:]]Learning/Praca[[:space:]]Inzynierska[[:space:]]-[[:space:]]Machine[[:space:]]Learning_Data/Managed/mono-2.0-bdwgc.dll filter=lfs diff=lfs merge=lfs -text
+mono-2.0-bdwgc.dll filter=lfs diff=lfs merge=lfs -text
